@@ -38,11 +38,9 @@ Aplikasi untuk otomatisasi deploy dan transfer token di jaringan EVM (Ethereum V
 1. Clone repository ini
 2. Install dependencies:
 ```bash
-npm install
+npm install && npx hardhat compile
 ```
-```bash
-npx hardhat compile
-```
+
 ## Penggunaan
 
 

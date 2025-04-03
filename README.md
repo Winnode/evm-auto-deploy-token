@@ -52,7 +52,7 @@ npm start
 
 ## Konfigurasi
 
-1. Input PK
+1. Nanti akan di minta Input PK saat sudah Run
 2. Sesuaikan konfigurasi chain di `config/chains.js`
 3. Atur parameter gas di `config/gas.json`
 
